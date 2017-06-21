@@ -9,12 +9,12 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Adam Monsour
-tagline: Hello World~
+tagline: Hello World
 author :
   name : Adam Monsour
   email : adam.monsour@gmail.com
   github : amonsour
-  twitter : @Manifest88
+  twitter : Manifest88
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
